@@ -1,0 +1,9 @@
+#Plugin.yml
+
+name: TemplatePlugin
+version: 1.0
+description: This is a template minecraft plugin.
+main: me.giodev.templatePlugin.TemplatePlugin
+author: Giovani Valgas
+website: www.giovalgas.dev
+prefix: TP
