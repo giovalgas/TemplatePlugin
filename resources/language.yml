@@ -1,0 +1,8 @@
+messages:
+  message-prefix: "&c[&eTemplate Plugin&c] "
+  hello-world: "&aHello World!"
+
+sounds:
+  test-sound: "CLICK"
+
+

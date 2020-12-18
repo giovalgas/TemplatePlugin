@@ -7,3 +7,8 @@ main: me.giodev.templatePlugin.TemplatePlugin
 author: Giovani Valgas
 website: www.giovalgas.dev
 prefix: TP
+
+commands:
+  tpcommand:
+    usage: /command <args>
+    description: test command.
